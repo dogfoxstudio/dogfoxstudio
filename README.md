@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hey there, Dogfox is here
+
+Data Scientist & Analyst, Python & bots developer
+
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,linux,bots,js)](https://skillicons.dev)
 
 <!--
 **dogfoxstudio/dogfoxstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,linux,bots,js)](https://skillicons.dev)
